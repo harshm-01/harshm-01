@@ -4,11 +4,9 @@
 
 - 👯 I’m looking to collaborate on **web development, open-source software, and challenging problem-solving projects.**
 
-- 👨‍💻 All of my projects are available at [https://harshm-01.github.io/Portfolio/](https://harshm-01.github.io/Portfolio/)
-
 - 💬 Ask me about **web development, backend technologies, and competitive programming.**
 
-- 📫 You can email me at **harshm99hm@gmail.com or connect with me on GitHub.**
+- 📫 You can email me at **harshm01official@gmail.com or connect with me on GitHub.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KXztp2VQ2l3SpYBXOMN4_iaTULW9VoNU/view?usp=drive_link](https://drive.google.com/file/d/1KXztp2VQ2l3SpYBXOMN4_iaTULW9VoNU/view?usp=drive_link)
 
