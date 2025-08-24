@@ -10,8 +10,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KXztp2VQ2l3SpYBXOMN4_iaTULW9VoNU/view?usp=drive_link](https://drive.google.com/file/d/1KXztp2VQ2l3SpYBXOMN4_iaTULW9VoNU/view?usp=drive_link)
 
-- ⚡ Fun fact **When I'm not coding, I love exploring the night sky 🌌 and capturing its beauty 📸—mixing my tech side with a bit of creativity!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-maurya-39a102203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-maurya-39a102203/" height="30" width="40" /></a>
